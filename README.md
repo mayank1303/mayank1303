@@ -1,40 +1,63 @@
-# 👋 Hi, I'm Mayank Kumar  
-
-🚀 **Research Engineer @ C-DOT** | 🎓 **M.Tech (CSE), IIT Jammu**  
-💡 Passionate about **AI/ML, Cybersecurity, Generative AI, and Secure Systems**  
+<!-- Banner (optional: replace with your own image or a Canva design) -->
+<h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
+<h3 align="center">🚀 Research Engineer @ C-DOT | 🎓 M.Tech (CSE), IIT Jammu</h3>
 
 ---
 
-## 🧑‍💻 About Me
-- 🔐 Currently working on **real-time anomaly detection & UEBA systems** at **C-DOT**.  
-- 🧠 Research experience in **Federated Learning security, adversarial attacks, and phishing detection**.  
-- 📊 Skilled in **LLMs, NLP, Deep Learning, FastAPI, Docker, OpenSearch, PostgreSQL**.  
-- 📚 Published papers in **Federated Learning security** and **Human decision-making with phishing emails**.  
-- 🌱 Actively learning and building with **Agentic AI, LangChain, LangGraph, and RAG**.  
+## ✨ About Me
+- 🔐 Working on **real-time anomaly detection & UEBA systems** at **C-DOT**  
+- 🧠 Research in **Federated Learning Security, Adversarial Attacks & Phishing Detection**  
+- 🤖 Passionate about **AI/ML, Cybersecurity, Generative AI, Agentic AI**  
+- 📚 **Publications** in ICONIP & SINCOF on Federated Learning resilience and phishing defense  
+- 🌱 Exploring **LangChain, LangGraph, and RAG** for secure AI applications  
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, R, C++, C, SQL  
-**Frameworks & ML:** PyTorch, TensorFlow, Keras, Scikit-Learn, NLTK, GloVe, OpenCV  
-**Backend & Tools:** FastAPI, Flask, Django, Docker, Git, PostgreSQL, MySQL, OpenSearch  
-**Platforms:** Linux, Windows  
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![C++](https://img.shields.io/badge/C++-Language-blue?logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?logo=postgresql)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-orange?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikitlearn)
+![FastAPI](https://img.shields.io/badge/FastAPI-Framework-teal?logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-black?logo=flask)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?logo=docker)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-Analytics-blue?logo=opensearch)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![Linux](https://img.shields.io/badge/Linux-OS-yellow?logo=linux)
 
 ---
 
 ## 📌 Featured Projects
-- 🔎 **Slow DoS Attack Detection** → Real-time detection using IQR + Isolation Forest on API traffic.  
-- 🛡️ **UEBA Security Features** → Access & workload anomaly detection with Isolation Forest (90% improvement over One-Class SVM).  
-- 🐦 **Bird Species Recognition** → Audio-based classification with MFCC + GMM; Flask demo.  
-- 🌊 **Underwater Object Detection** → Encoder-decoder pipeline with meta-learning for improved mAP.  
-- 📨 **Cognitive Bias & Phishing Detection** → GloVe embeddings + ML/DL models, 90%+ accuracy.  
+
+### 🔎 [IIT Mandi Internship](https://github.com/mayank1303/IIT_Mandi_Internship)  
+Analysis of separable vs non-separable datasets (image & tabular) with ML experiments.  
+![Stars](https://img.shields.io/github/stars/mayank1303/IIT_Mandi_Internship?style=social)
+
+### 🐦 [Live Prediction of Bird Species via Audio](https://github.com/mayank1303/Live-Prediction-of-Bird-Species-via-Audio)  
+Flask app for real-time bird species prediction using audio classification.  
+![Stars](https://img.shields.io/github/stars/mayank1303/Live-Prediction-of-Bird-Species-via-Audio?style=social)
+
+### 🌊 [Underwater Object Detection](https://github.com/mayank1303/Underwater-Object-Detection)  
+Encoder-decoder pipeline with meta-learning for robust underwater detection.  
+![Stars](https://img.shields.io/github/stars/mayank1303/Underwater-Object-Detection?style=social)
+
+### 📨 [Phishing Email Cognitive Bias](https://github.com/mayank1303/Phishing-Email-Cognitive-Bias)  
+Studying cognitive biases in phishing detection using ML/DL + GloVe embeddings.  
+![Stars](https://img.shields.io/github/stars/mayank1303/Phishing-Email-Cognitive-Bias?style=social)
+
+### 🔐 [Federated Learning Attacks](https://github.com/mayank1303/Federated-Learning-Attacks)  
+Research on backdoor & adversarial attacks in federated and split learning.  
+![Stars](https://img.shields.io/github/stars/mayank1303/Federated-Learning-Attacks?style=social)
 
 ---
 
 ## 📝 Publications
-- **ICONIP 2022** — Cognitive Biases in Phishing Emails and Human Decision-Making  
-- **SINCOF 2023** — BATFL: Battling Backdoor Attacks in Federated Learning  
-- **SINCOF 2023** — RAFT: Evaluating Federated Learning Resilience Against Threats  
+- **ICONIP 2022** — *Cognitive Biases in Phishing Emails & Human Decision-Making*  
+- **SINCOF 2023** — *BATFL: Battling Backdoor Attacks in Federated Learning*  
+- **SINCOF 2023** — *RAFT: Evaluating Federated Learning Resilience Against Threats*  
 
 ---
 
@@ -43,6 +66,15 @@
 - Build RAG Applications — IBM (Coursera)  
 - Neural Networks & Deep Learning — DeepLearning.AI  
 - Linear Algebra for ML & Data Science — DeepLearning.AI  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank1303&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1303&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+</p>
 
 ---
 
