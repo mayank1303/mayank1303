@@ -1,4 +1,5 @@
 <!-- Banner (optional: replace with your own image or a Canva design) -->
+![Mayank Kumar Banner](./assets/banner_2.png)
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
 <h3 align="center">🚀 Research Engineer @ C-DOT | 🎓 M.Tech (CSE), IIT Jammu</h3>
 
