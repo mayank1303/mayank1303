@@ -1,7 +1,10 @@
 <!-- Banner (optional: replace with your own image or a Canva design) -->
 ![Mayank Kumar Banner](./assets/banner_3.png)
+
 <h1 align="center">Hi 👋, I'm Mayank Kumar</h1>
 <h3 align="center">🚀 Research Engineer @ C-DOT | 🎓 M.Tech (CSE), IIT Jammu</h3>
+
+
 
 ---
 
@@ -86,5 +89,5 @@ Research on backdoor & adversarial attacks in federated and split learning.
 - ✉️ **Email:** mayankkumar1303@gmail.com  
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=mayank1303&color=blue)
 ⭐️ *“Exploring the intersection of AI and Security to build robust, intelligent systems.”*
